@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Dancing Script";
+    height: 10rem;
+}
+
+.px-4 {
+    background-image: url(../public/toa-heftiba-DUXACn8tgp4-unsplash.jpg);
+    height: 90vh;
+    color: wheat;
+    margin: 0 !important;
+    font-family: "Dancing Script";
+    margin-left: 0.5px;
+}
+
+.hori h2{
+    text-align: center;
+}
+
+.hori div {
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-left: .5px;
+}
+
